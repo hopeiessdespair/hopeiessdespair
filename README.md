@@ -1,0 +1,3 @@
+- hello, i'm hara! 
+- im learning html and css as a hobby!
+- nothing much else to say, but i use any and all pronouns!
